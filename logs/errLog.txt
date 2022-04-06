@@ -1,0 +1,9 @@
+20220404	16:36:12	a7ef5807-1f50-4147-b236-e6518da4b557	Error : Not allowed by CORS
+20220404	16:37:01	963d1550-c8d0-4096-b9eb-161d8355f146	Error : Not allowed by CORS
+20220404	16:37:43	1f7505b7-763a-4055-ae95-d0180e188c49	Error : Not allowed by CORS
+20220404	16:37:49	2f172bb7-e690-4c51-a961-5a432395ce17	Error : Not allowed by CORS
+20220404	16:37:51	658b0f20-a94b-493f-9350-484e358fc2d1	Error : Not allowed by CORS
+20220405	09:34:50	6709798b-ff6c-40ea-b353-703cce4fa2ce	TypeError : res.json(...).delete is not a function
+20220406	12:12:49	431bc501-8104-4782-aaa2-6d6d66c2fcaa	TypeError : allowedOrigins.includes is not a function
+20220406	12:14:31	ed0289b1-fd51-48ad-b7c8-6a11d496bf4e	ReferenceError : whitelist is not defined
+20220406	12:15:02	7ff96094-6fef-427c-ad0f-49a9efe37179	ReferenceError : whitelist is not defined

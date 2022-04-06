@@ -1,0 +1,2 @@
+database user: new_user
+pwd:hRy0mMFUiLNnzOmw
